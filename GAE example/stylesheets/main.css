@@ -1,0 +1,13 @@
+body {
+  font-family: Verdana, Helvetica, serif;
+  background-color: yellow;
+  /* background-image:url('http://www.insidesocal.com/tomhoffarth/football.jpg'); 
+  */
+}
+a{
+  font-family: Verdana, Helvetica, sans-serif;
+  color: black;
+}
+blockquote{
+  color: red;
+}
