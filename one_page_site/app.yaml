@@ -8,6 +8,10 @@ handlers:
 - url: /
   script: main.py
 
+- url: /favicon.png
+  static_files: static/favicon.png
+  upload: static/favicon.png
+
 - url: /(.*)
   static_files: static/\1
   upload: static/(.*)
